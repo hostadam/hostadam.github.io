@@ -5,7 +5,7 @@ I've been making plugins for Minecraft for over 6 years, and have ran two large 
 # Table of Contents
 [Headers](#headers)
 
-<a name="headers">## My Servers</a>
+## My Servers
 
 ### Forcide
 
