@@ -14,7 +14,7 @@ I've been making plugins for Minecraft for over 6 years, and have ran two large 
 Donation Trains is a premium plugin I offer, available for purchase on SpigotMC & BuiltByBit. 
 The plugin allows server owners to setup donation goals. Each time a player donates, their donation will count towards a "train" which runs for 30 minutes, starting from the first donation. After 30 minutes, if any of the donation goals have been met, all online players are given rewards.
 
-(https://i.gyazo.com/c6f7d7cc0eafd5c7df1577010e5317d2.png)
+[alt text](https://i.gyazo.com/c6f7d7cc0eafd5c7df1577010e5317d2.png)
 
 ### PlayerAds
 PlayerAds is a premium plugin that allows you to send personalized broadcasts to players on the server, and the awesome part is that you get to choose which players should receive the broadcast. With over 10+ default conditions and seamless integration with other plugins like Vault, you're able to filter out players for the broadcasts
