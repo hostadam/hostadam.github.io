@@ -2,9 +2,6 @@
 My name is Adam. I'm a 20-year old developer from Sweden. 
 I've been making plugins for Minecraft for over 6 years, and have ran two large Minecraft networks: Forcide and Geographica.
 
-# Table of Contents
-[Headers](#headers)
-
 ## My Servers
 
 ### Forcide
