@@ -3,8 +3,11 @@ My name is Adam, I'm a 21 year old computer enthuasist, currently studying digit
 ## Skills
 
 > Proficient **Java** developer (8+ Years)
+> 
 > Familiar with other programming languages like **Python**, **PHP**, **HTML**, **CSS** and **JavaScript**.
+> 
 > Familiar with **JSON**, **MongoDB**, **MySQL**, **Git**.
+> 
 > Fluent in Swedish and English.
 
 
