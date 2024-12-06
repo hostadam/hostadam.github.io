@@ -18,5 +18,8 @@ My name is Adam, I'm a 21-year old computer enthusiast, currently studying digit
   - Lead developer and owner of one of the largest Minecraft servers of its' kind.
   - Concurrent player count peak at around **500** players
   - 5-digit server revenue
+- Forcide (Minecraft server)
+  - Developer for a semi-large HCF server.
+  - Concurrent player count peak at over **500 players**
 
 
