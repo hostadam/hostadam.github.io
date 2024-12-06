@@ -12,4 +12,11 @@ My name is Adam, I'm a 21-year old computer enthusiast, currently studying digit
 >
 > Fluent in Swedish and English.
 
+## Major Projects
+
+- Geographica (Minecraft server)
+  - Lead developer and owner of one of the largest Minecraft servers of its' kind.
+  - Concurrent player count peak at around **500** players
+  - 5-digit server revenue
+
 
